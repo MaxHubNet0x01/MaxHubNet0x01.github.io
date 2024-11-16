@@ -5,5 +5,5 @@ This site is created to host any relevant info for Dragons Dogma Online since th
 
 ## View Site
 
-https://MaxHubNet0x01.github.io
+http://MaxHubNet0x01.github.io
 
