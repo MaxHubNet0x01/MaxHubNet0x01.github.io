@@ -1,9 +1,9 @@
-# Dragons Dogma Online Fan Wiki
+# MaxHubNet0x01 Sites
 
-This site is created to host any relevant info for Dragons Dogma Online since the revival of the game by awesome developers (Soon to add credits)
+This Github Pages account is created to host any relevant websites I plan to contribute to
 
 
-## View Site
+## View Sites
 
-http://MaxHubNet0x01.github.io
+Dragons Dogma Online Fan Wiki:: http://MaxHubNet0x01.github.io/ddon-fan-wiki
 
